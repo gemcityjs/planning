@@ -7,3 +7,7 @@ Deep Dive on Grunt,,
 Yeoman Generator Creation,Adam Simpson,@a_simpson
 "Package Managers (npm, bower, etc.)",,
 git and advanced GitHub,,
+Using Assemble,,
+"Deploying the webs (Mina, CircleCI)",,
+tmuxinator for project startup,,
+Effectively debugging JavaScript,,
