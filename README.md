@@ -1,6 +1,9 @@
 Gem City JS Topics
 ======
 
-(List of topic suggestions)[topics.csv]
+[List of topic suggestions][topics]
+[Feedback Forum/Topic Suggestion][feedback]
 
-(Feedback Forum/Topic Suggestion)[https://docs.google.com/forms/d/1TygXppTiqeuz8Ljnv-LIwayjamAgXFaH-RmaQ2BNxH0/viewform]
+
+[topics]: ./topics.csv
+[feedback]: https://docs.google.com/forms/d/1TygXppTiqeuz8Ljnv-LIwayjamAgXFaH-RmaQ2BNxH0/viewform
