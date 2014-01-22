@@ -2,7 +2,8 @@ Gem City JS Topics
 ======
 
 [List of topic suggestions][topics]
-[Feedback Forum/Topic Suggestion][feedback]
+
+[Feedback Form/Topic Suggestion][feedback]
 
 
 [topics]: ./topics.csv
