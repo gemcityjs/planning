@@ -5,8 +5,10 @@ Gem City JS Topics
 
 [List of topic suggestions][topics]
 
+[List of lightning talk suggestions][lightning]
+
 [Feedback Form/Topic Suggestion][feedback]
 
 
-[topics]: ./topics.csv
+[lightning]: ./lightning.csv
 [feedback]: https://docs.google.com/forms/d/1TygXppTiqeuz8Ljnv-LIwayjamAgXFaH-RmaQ2BNxH0/viewform
