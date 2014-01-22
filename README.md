@@ -11,4 +11,5 @@ Gem City JS Topics
 
 
 [lightning]: ./lightning.csv
+[topics]: ./topics.csv
 [feedback]: https://docs.google.com/forms/d/1TygXppTiqeuz8Ljnv-LIwayjamAgXFaH-RmaQ2BNxH0/viewform
